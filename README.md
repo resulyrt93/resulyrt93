@@ -1,7 +1,7 @@
 ## Hi there, I'm Resul 👋
 
 # 💫 About Me:
-🔭 I’m currently working for @getir<br>💬 Ask me about Python
+🔭 I’m currently working for @datazone<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:
